@@ -1,3 +1,9 @@
+.DS_Store
+Labs/Lab_answers
+1_Python_Basics/answers
+2_Aspatial_data_manipulation/answers
+archive
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
